@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InesSC
 - 👀 I’m interested in learning for making games and interactive little projects with my drawings
-- 🌱 I’m currently learning python, c#
+- 🌱 I’m currently learning python, c#, java
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me inessorzano@gmail.com
 
